@@ -245,7 +245,7 @@ body, select, button{
 	height: 40px;
 	border: none;
 	margin: 0 auto 1em;
-	padding: 1em;
+	padding: 0.5em;
 }
 
 @media(max-width: 414px){
